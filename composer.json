@@ -1,0 +1,13 @@
+{
+    "name": "diaolingzc/think-weapp",
+    "description": "Tencent cloud WeChat small program server SDK",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yunli",
+            "email": "diaolingzc@sina.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
